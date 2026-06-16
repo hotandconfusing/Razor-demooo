@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70112d279e9846bf9f691ffc1f0d575e, type: 3}
+  m_Name: TextureGroup__
+  m_EditorClassIdentifier: VladislavTsurikov.UIElementsUtility::VladislavTsurikov.UIElementsUtility.Runtime.Groups.Textures.TextureGroup
+  _groupName: 
+  _assetDefaultName: TextureGroup
+  _items:
+  - TextureName: URP
+    TextureReference: {fileID: 2800000, guid: 727a75301c3d24613a3ebcec4a24c2c8, type: 3}
+  - TextureName: move
+    TextureReference: {fileID: 2800000, guid: 7bd17c5613529fa4ca7da0b22cd7ecd3, type: 3}
+  - TextureName: move
+    TextureReference: {fileID: 2800000, guid: e3f38dee2c025e247a63c98e9879a20c, type: 3}
+  - TextureName: SharpCircle
+    TextureReference: {fileID: 2800000, guid: 7887f4b2af6d9e84180d5180c062e4f9, type: 3}
+  - TextureName: WhiteSquare
+    TextureReference: {fileID: 2800000, guid: 296acee8c6e148844a377827cc3108b5, type: 3}
+  - TextureName: GenericLeafGrundge
+    TextureReference: {fileID: 2800000, guid: d20e25474e5f9224793eb095a4d2cb9c, type: 3}
+  - TextureName: ShrubPlantsBillboardAlbedo
+    TextureReference: {fileID: 2800000, guid: e154a92188e8c854fa943346016c1535, type: 3}
+  - TextureName: ShrubPlantsBillboardMAG
+    TextureReference: {fileID: 2800000, guid: bf60b04157d270142bec9fb03b3f6791, type: 3}
+  - TextureName: ShrubPlantsBillboardNormal
+    TextureReference: {fileID: 2800000, guid: 0e53e8b92f1ba7c499d35bc83fba6b51, type: 3}
+  - TextureName: GridA1
+    TextureReference: {fileID: 2800000, guid: 7abcd40a6e65c68469bf591d58ee0d6c, type: 3}
+  - TextureName: RHEWPTTFEInfoboard
+    TextureReference: {fileID: 2800000, guid: 4666712f3e36fe241993e8de7f6966c8, type: 3}
+  - TextureName: CliffRockTTFELAAlbedo
+    TextureReference: {fileID: 2800000, guid: ff0438eb336036a46812cb326468eddd, type: 3}
+  - TextureName: CliffRockTTFELAMAG
+    TextureReference: {fileID: 2800000, guid: 7e276c593e5e1f646928beda4d4d391f, type: 3}
+  - TextureName: CliffRockTTFELANormal
+    TextureReference: {fileID: 2800000, guid: 8277036385229134a8ada1fd1fd295c5, type: 3}
+  - TextureName: CliffRockTTFELBAlbedo
+    TextureReference: {fileID: 2800000, guid: 7786648498cc37049804e1da3f3e0808, type: 3}
+  - TextureName: CliffRockTTFELBMAG
+    TextureReference: {fileID: 2800000, guid: ce054b904524a4346a8c8d77a8d067ad, type: 3}
+  - TextureName: CliffRockTTFELBNormal
+    TextureReference: {fileID: 2800000, guid: 5af57fde76c871440aa83608609d6cd1, type: 3}
+  - TextureName: RocksTTFELAlbedo
+    TextureReference: {fileID: 2800000, guid: cd637fe5f91dcba4bb1da8bc402fe2d4, type: 3}
+  - TextureName: RocksTTFELMAG
+    TextureReference: {fileID: 2800000, guid: 3d3a6fc1d8217e44fa40647313b40929, type: 3}
+  - TextureName: RocksTTFELNormal
+    TextureReference: {fileID: 2800000, guid: c4293be6cd56677499294b4312e385a8, type: 3}
+  - TextureName: BaseDirtGCATAAlbedoBI
+    TextureReference: {fileID: 2800000, guid: 52e97c3e9cb0f614c8b9a6c6765756d5, type: 3}
+  - TextureName: BaseDirtGCATAAlbedo
+    TextureReference: {fileID: 2800000, guid: 7e0f1b05d9ec3cf4e9b02e558f2f6a02, type: 3}
+  - TextureName: BaseDirtGCATAHeight
+    TextureReference: {fileID: 2800000, guid: 0f1f3220297ff904abc0134c331e1c2a, type: 3}
+  - TextureName: BaseDirtGCATAMAG
+    TextureReference: {fileID: 2800000, guid: f04c7769e7c925245aec87dc045ae0c3, type: 3}
+  - TextureName: BaseDirtGCATANormal
+    TextureReference: {fileID: 2800000, guid: b54c7db0f5e70294eb3866d5c7ad63b5, type: 3}
+  - TextureName: BaseRockGCATABAlbedoBI
+    TextureReference: {fileID: 2800000, guid: 5dfa642cff8c269449a4e670e296911e, type: 3}
+  - TextureName: BaseRockGCATABAlbedo
+    TextureReference: {fileID: 2800000, guid: 80320eaf0437460479475679f18cb135, type: 3}
+  - TextureName: BaseRockGCATABHeight
+    TextureReference: {fileID: 2800000, guid: ae7ff056ab5d66e4aab165616c75f385, type: 3}
+  - TextureName: BaseRockGCATABMAG
+    TextureReference: {fileID: 2800000, guid: 99a1b7c7c2418734aa485b33901c3e11, type: 3}
+  - TextureName: BaseRockGCATABNormal
+    TextureReference: {fileID: 2800000, guid: 887b0b3a60ab5204787b1640fd84e6dc, type: 3}
+  - TextureName: DirtRickGCATAAlbedoBI
+    TextureReference: {fileID: 2800000, guid: e93355eafa8f830479bf21c271197334, type: 3}
+  - TextureName: DirtRickGCATAAlbedo
+    TextureReference: {fileID: 2800000, guid: 6ba55b81046d81a49af72900a6ec84f2, type: 3}
+  - TextureName: DirtRickGCATAHeight
+    TextureReference: {fileID: 2800000, guid: 7b6d0cdd4dd22ec448bc046fed9972be, type: 3}
+  - TextureName: DirtRickGCATAMAG
+    TextureReference: {fileID: 2800000, guid: 2c2c6309f1194904ebc44ccd8b5e65ed, type: 3}
+  - TextureName: DirtRickGCATANormal
+    TextureReference: {fileID: 2800000, guid: 30c1099de0b2c1e4d9a97d33df593740, type: 3}
+  - TextureName: GrassGCATAAlbedoBI
+    TextureReference: {fileID: 2800000, guid: 562fddc1ab108804cbc3206fa2c92750, type: 3}
+  - TextureName: GrassGCATAAlbedo
+    TextureReference: {fileID: 2800000, guid: 03f9fe18f0c62284fbb1b3ab854b9c64, type: 3}
+  - TextureName: GrassGCATAHeight
+    TextureReference: {fileID: 2800000, guid: 38caee8b57df8ed4aaa6e109d6bdadd5, type: 3}
+  - TextureName: GrassGCATAMAG
+    TextureReference: {fileID: 2800000, guid: e3e17f7ee6882624bbec7de8d04946e2, type: 3}
+  - TextureName: GrassGCATANormal
+    TextureReference: {fileID: 2800000, guid: 2b9b807f14b1a1740954e8305a3bcce9, type: 3}
+  - TextureName: FlowersTTFELAlbedo
+    TextureReference: {fileID: 2800000, guid: c5633d99f1c63a34293ae820dd93165f, type: 3}
+  - TextureName: FlowersTTFELMAGT
+    TextureReference: {fileID: 2800000, guid: b361f547dec61c34581764396f7d1e6a, type: 3}
+  - TextureName: FlowersTTFELNormal
+    TextureReference: {fileID: 2800000, guid: 9fb2a99c402d3a948936b071c74dc319, type: 3}
+  - TextureName: FlowersTTFELSpecular
+    TextureReference: {fileID: 2800000, guid: 72ccc3ad6daeb644baa761440579cba2, type: 3}
+  - TextureName: GrassGCATAAlbedo
+    TextureReference: {fileID: 2800000, guid: 1aa2dbc69edd9cb47ac394d7b393b49b, type: 3}
+  - TextureName: GrassGCATAMAG
+    TextureReference: {fileID: 2800000, guid: 26843daa5ced61f4c86c0cd91d0ff900, type: 3}
+  - TextureName: GrassGCATANormalb
+    TextureReference: {fileID: 2800000, guid: b445905ac87230346b258e41a8c22d68, type: 3}
+  - TextureName: GrassGCATANormal
+    TextureReference: {fileID: 2800000, guid: 6aaac2c396376144b9eaca12299cab0c, type: 3}
+  - TextureName: GrassGCATASpecular
+    TextureReference: {fileID: 2800000, guid: 900a9db77abd75a4c91e7b489472f25c, type: 3}
+  - TextureName: ShrubBarkGCATAAlbedo
+    TextureReference: {fileID: 2800000, guid: 961f51f16637c464b8d9c9cf6502071c, type: 3}
+  - TextureName: ShrubBarkGCATAMAG
+    TextureReference: {fileID: 2800000, guid: 71cad2c9341abe04bb2f2283eca5f36d, type: 3}
+  - TextureName: ShrubBarkGCATANormal
+    TextureReference: {fileID: 2800000, guid: e84b0233d8256274d9064ca4b2f3e581, type: 3}
+  - TextureName: ShrubsGenericGCATAAlbedoM
+    TextureReference: {fileID: 2800000, guid: 806e380996355d647a6242fe9813dd50, type: 3}
+  - TextureName: ShrubsGenericGCATANormal
+    TextureReference: {fileID: 2800000, guid: 71e742f8438c6e54c91bb098edd2b3b8, type: 3}
+  - TextureName: ShrubsGenericGCATASATG
+    TextureReference: {fileID: 2800000, guid: 69334f54a560eb9418c93bd852bd9ad0, type: 3}
+  - TextureName: ShrubsGenericGCATASpecular
+    TextureReference: {fileID: 2800000, guid: 14594c45e66dd454499fa862762bcc9d, type: 3}
+  - TextureName: ButtonDisabledActiveDark
+    TextureReference: {fileID: 2800000, guid: 4a60fb2d00d174a4eab6aa42dc7156c8, type: 3}
+  - TextureName: ButtonDisabledActiveLight
+    TextureReference: {fileID: 2800000, guid: a089c687dc38a6842bfaa50294032741, type: 3}
+  - TextureName: ButtonDisabledHoverDark
+    TextureReference: {fileID: 2800000, guid: 6722109f153db0147a56cfd7cb1b22e0, type: 3}
+  - TextureName: ButtonDisabledHoverLight
+    TextureReference: {fileID: 2800000, guid: 462ff9abd50e2a04aa5d962c05bbf70c, type: 3}
+  - TextureName: ButtonEnabledActiveDark
+    TextureReference: {fileID: 2800000, guid: 0d4655b887aa7d84a88ef912aedff820, type: 3}
+  - TextureName: ButtonEnabledActiveLight
+    TextureReference: {fileID: 2800000, guid: a40ae67d3908319469e0d22537b04baf, type: 3}
+  - TextureName: ButtonEnabledHoverLight
+    TextureReference: {fileID: 2800000, guid: 1990a0c58c757a244bfe91e65792657a, type: 3}
+  - TextureName: ButtonEnabledNormalDark
+    TextureReference: {fileID: 2800000, guid: ffd1c76ec477626478fcc10dacd46691, type: 3}
+  - TextureName: ButtonEnabledNormalLight
+    TextureReference: {fileID: 2800000, guid: 2d8556c0f9422cf4298f11fc0f633e01, type: 3}
+  - TextureName: FoldoutDown
+    TextureReference: {fileID: 2800000, guid: a23fbce17a165bf41b6b2e1ba50d2260, type: 3}
+  - TextureName: FoldoutRight
+    TextureReference: {fileID: 2800000, guid: 0ce9ebd67e4b9ff47b500cde899711df, type: 3}
+  - TextureName: IconButtonCancelActive
+    TextureReference: {fileID: 2800000, guid: 902d23feb7b8e154692eeec0e3c2dcca, type: 3}
+  - TextureName: IconButtonCancelHover
+    TextureReference: {fileID: 2800000, guid: 122b621c2b299f84bb371c5d7c2fb274, type: 3}
+  - TextureName: IconButtonCancelNormal
+    TextureReference: {fileID: 2800000, guid: a433477d0181b334da93ffe13d251eca, type: 3}
+  - TextureName: IconButtonMinusActive
+    TextureReference: {fileID: 2800000, guid: fffad5756a8d1044492c4f340c805542, type: 3}
+  - TextureName: IconButtonMinusHover
+    TextureReference: {fileID: 2800000, guid: 1302253895fba554fadddded8720fb48, type: 3}
+  - TextureName: IconButtonMinusNormal
+    TextureReference: {fileID: 2800000, guid: 470a50e095ee3e549ad9cb63e4ff375d, type: 3}
+  - TextureName: IconButtonOkActive
+    TextureReference: {fileID: 2800000, guid: 9dcf82a90e9b16346afcc51c076b4c78, type: 3}
+  - TextureName: IconButtonOkHover
+    TextureReference: {fileID: 2800000, guid: 127ae3a8ff3d6d048ba468068890c4c7, type: 3}
+  - TextureName: IconButtonOkNormal
+    TextureReference: {fileID: 2800000, guid: 91c51ff1d167ef24487d5c943d7a6afd, type: 3}
+  - TextureName: IconButtonPlusActive
+    TextureReference: {fileID: 2800000, guid: f302507b339a4da40abb54975f6f764f, type: 3}
+  - TextureName: IconButtonPlusHover
+    TextureReference: {fileID: 2800000, guid: 7f4a1afebcff4e643ba853c40560d0d3, type: 3}
+  - TextureName: IconButtonPlusNormal
+    TextureReference: {fileID: 2800000, guid: 259991233803e3c489cf3e1b1fd2ccf0, type: 3}
+  - TextureName: Minus
+    TextureReference: {fileID: 2800000, guid: 65c2edf5bd9e5544ea252189ebb8dc5f, type: 3}
+  - TextureName: Plus
+    TextureReference: {fileID: 2800000, guid: c1a13badb18892d459fe4b74c82ac4de, type: 3}
+  - TextureName: TTFEGraphicEditor
+    TextureReference: {fileID: 2800000, guid: 51ce54d1516bae94b8dfbbea886c648d, type: 3}
+  - TextureName: TTFEGlobalGizmoAlbedo
+    TextureReference: {fileID: 2800000, guid: 4465c0aae8371694d8400e4dc45b23e3, type: 3}
+  - TextureName: TTFEGlobalGizmoColor
+    TextureReference: {fileID: 2800000, guid: 6552855708a04e84380742d33f9da01b, type: 3}
+  - TextureName: TTFEGlobalGizmoNormal
+    TextureReference: {fileID: 2800000, guid: 4199ccd0e0911f74f9589bfd1dc792a4, type: 3}
+  - TextureName: TTFELOGO
+    TextureReference: {fileID: 2800000, guid: 67ffb0b2dff4b074595f6a14fbe14641, type: 3}
+  _groupCategory: 
+  _removePrefixFromTextureName: 
